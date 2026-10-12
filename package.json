@@ -1,0 +1,14 @@
+{
+  "name": "github-trending-statistics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily snapshots of GitHub weekly and monthly trending repositories",
+  "scripts": {
+    "fetch:weekly": "node scripts/fetch-trending.js weekly",
+    "fetch:monthly": "node scripts/fetch-trending.js monthly",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0"
+  }
+}
