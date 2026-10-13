@@ -15,8 +15,9 @@ descriptions, languages, total stars and forks, stars gained during that period
 
 ## Automation
 
-The `Fetch GitHub Trending` workflow runs daily at 00:00 UTC
-(08:00 Asia/Shanghai), saves dated weekly and monthly snapshots, and commits
+The `Fetch GitHub Trending` workflow runs daily at 00:17 UTC
+(08:17 Asia/Shanghai), avoiding the top-of-hour scheduling peak. It saves dated
+weekly and monthly snapshots and commits
 them to the default branch. It can also be started manually from the Actions tab.
 
 ## Run locally
