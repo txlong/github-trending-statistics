@@ -1,0 +1,417 @@
+{
+  "date": "2026-10-15",
+  "period": "weekly",
+  "source": "https://github.com/trending?since=weekly",
+  "fetchedAt": "2026-10-15T04:48:06.887Z",
+  "repositories": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "248,304",
+      "forks": "62,289",
+      "starsThisWeek": "214,837",
+      "contributors": [
+        {
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4"
+        },
+        {
+          "name": "N0zoM1z0",
+          "url": "https://github.com/N0zoM1z0",
+          "avatar": "https://avatars.githubusercontent.com/u/161784452?s=40&v=4"
+        },
+        {
+          "name": "kaoru0822-kitauji",
+          "url": "https://github.com/kaoru0822-kitauji",
+          "avatar": "https://avatars.githubusercontent.com/u/208281322?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "37,381",
+      "forks": "3,305",
+      "starsThisWeek": "28,240",
+      "contributors": [
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "adriadam10",
+          "url": "https://github.com/adriadam10",
+          "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4"
+        },
+        {
+          "name": "oneandonlydean",
+          "url": "https://github.com/oneandonlydean",
+          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4"
+        },
+        {
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar",
+          "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4"
+        },
+        {
+          "name": "MarcZX100",
+          "url": "https://github.com/MarcZX100",
+          "avatar": "https://avatars.githubusercontent.com/u/67475268?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "291,545",
+      "forks": "24,449",
+      "starsThisWeek": "12,292",
+      "contributors": [
+        {
+          "name": "mattpocock",
+          "url": "https://github.com/mattpocock",
+          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "gabimoncha",
+          "url": "https://github.com/gabimoncha",
+          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "63,853",
+      "forks": "5,732",
+      "starsThisWeek": "5,123",
+      "contributors": [
+        {
+          "name": "miguel-heygen",
+          "url": "https://github.com/miguel-heygen",
+          "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4"
+        },
+        {
+          "name": "vanceingalls",
+          "url": "https://github.com/vanceingalls",
+          "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&v=4"
+        },
+        {
+          "name": "jrusso1020",
+          "url": "https://github.com/jrusso1020",
+          "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "ukimsanov",
+          "url": "https://github.com/ukimsanov",
+          "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "8,548",
+      "forks": "415",
+      "starsThisWeek": "814",
+      "contributors": [
+        {
+          "name": "ryanfleury",
+          "url": "https://github.com/ryanfleury",
+          "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&v=4"
+        },
+        {
+          "name": "NikitaSmith057",
+          "url": "https://github.com/NikitaSmith057",
+          "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&v=4"
+        },
+        {
+          "name": "mmozeiko",
+          "url": "https://github.com/mmozeiko",
+          "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&v=4"
+        },
+        {
+          "name": "NikitaAtEpic",
+          "url": "https://github.com/NikitaAtEpic",
+          "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&v=4"
+        },
+        {
+          "name": "andreymlv",
+          "url": "https://github.com/andreymlv",
+          "avatar": "https://avatars.githubusercontent.com/u/58001412?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "10,565",
+      "forks": "513",
+      "starsThisWeek": "3,505",
+      "contributors": [
+        {
+          "name": "okwasniewski",
+          "url": "https://github.com/okwasniewski",
+          "avatar": "https://avatars.githubusercontent.com/u/52801365?s=40&v=4"
+        },
+        {
+          "name": "kacperkapusciak",
+          "url": "https://github.com/kacperkapusciak",
+          "avatar": "https://avatars.githubusercontent.com/u/39658211?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "fecolinhares",
+          "url": "https://github.com/fecolinhares",
+          "avatar": "https://avatars.githubusercontent.com/u/963774?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "100,812",
+      "forks": "8,833",
+      "starsThisWeek": "3,371",
+      "contributors": [
+        {
+          "name": "thedotmack",
+          "url": "https://github.com/thedotmack",
+          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        },
+        {
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        },
+        {
+          "name": "rodboev",
+          "url": "https://github.com/rodboev",
+          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "55,449",
+      "forks": "3,503",
+      "starsThisWeek": "10,706",
+      "contributors": [
+        {
+          "name": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery",
+          "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        },
+        {
+          "name": "parveen0029",
+          "url": "https://github.com/parveen0029",
+          "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "",
+      "languageColor": "",
+      "stars": "5,994",
+      "forks": "218",
+      "starsThisWeek": "930",
+      "contributors": [
+        {
+          "name": "twostraws",
+          "url": "https://github.com/twostraws",
+          "avatar": "https://avatars.githubusercontent.com/u/190200?s=40&v=4"
+        },
+        {
+          "name": "GLinnik21",
+          "url": "https://github.com/GLinnik21",
+          "avatar": "https://avatars.githubusercontent.com/u/23104281?s=40&v=4"
+        },
+        {
+          "name": "Jeehut",
+          "url": "https://github.com/Jeehut",
+          "avatar": "https://avatars.githubusercontent.com/u/6942160?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "20,447",
+      "forks": "2,019",
+      "starsThisWeek": "1,994",
+      "contributors": [
+        {
+          "name": "earthtojake",
+          "url": "https://github.com/earthtojake",
+          "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "warun7",
+          "url": "https://github.com/warun7",
+          "avatar": "https://avatars.githubusercontent.com/u/143688508?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "180,189",
+      "forks": "34,106",
+      "starsThisWeek": "1,117",
+      "contributors": [
+        {
+          "name": "skia-flutter-autoroll",
+          "url": "https://github.com/skia-flutter-autoroll",
+          "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&v=4"
+        },
+        {
+          "name": "engine-flutter-autoroll",
+          "url": "https://github.com/engine-flutter-autoroll",
+          "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&v=4"
+        },
+        {
+          "name": "abarth",
+          "url": "https://github.com/abarth",
+          "avatar": "https://avatars.githubusercontent.com/u/112007?s=40&v=4"
+        },
+        {
+          "name": "Hixie",
+          "url": "https://github.com/Hixie",
+          "avatar": "https://avatars.githubusercontent.com/u/551196?s=40&v=4"
+        },
+        {
+          "name": "jason-simmons",
+          "url": "https://github.com/jason-simmons",
+          "avatar": "https://avatars.githubusercontent.com/u/14226037?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "87,757",
+      "forks": "9,788",
+      "starsThisWeek": "5,613",
+      "contributors": [
+        {
+          "name": "ryanmkurtz",
+          "url": "https://github.com/ryanmkurtz",
+          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4"
+        },
+        {
+          "name": "ghidra1",
+          "url": "https://github.com/ghidra1",
+          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4"
+        },
+        {
+          "name": "dragonmacher",
+          "url": "https://github.com/dragonmacher",
+          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4"
+        },
+        {
+          "name": "nsadeveloper789",
+          "url": "https://github.com/nsadeveloper789",
+          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4"
+        },
+        {
+          "name": "caheckman",
+          "url": "https://github.com/caheckman",
+          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4"
+        }
+      ]
+    }
+  ]
+}
