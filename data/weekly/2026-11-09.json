@@ -1,0 +1,562 @@
+{
+  "date": "2026-11-09",
+  "period": "weekly",
+  "source": "https://github.com/trending?since=weekly",
+  "fetchedAt": "2026-11-09T06:44:42.531Z",
+  "repositories": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "10,592",
+      "forks": "864",
+      "starsThisWeek": "9,327",
+      "contributors": [
+        {
+          "name": "DinaLaptii",
+          "url": "https://github.com/DinaLaptii",
+          "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4"
+        },
+        {
+          "name": "yuvalshkolar",
+          "url": "https://github.com/yuvalshkolar",
+          "avatar": "https://avatars.githubusercontent.com/u/21292702?s=40&v=4"
+        },
+        {
+          "name": "liavnave",
+          "url": "https://github.com/liavnave",
+          "avatar": "https://avatars.githubusercontent.com/u/29655923?s=40&v=4"
+        },
+        {
+          "name": "liofnv",
+          "url": "https://github.com/liofnv",
+          "avatar": "https://avatars.githubusercontent.com/u/263700388?s=40&v=4"
+        },
+        {
+          "name": "tomer-levin-nv",
+          "url": "https://github.com/tomer-levin-nv",
+          "avatar": "https://avatars.githubusercontent.com/u/263323887?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "115,035",
+      "forks": "9,995",
+      "starsThisWeek": "6,443",
+      "contributors": [
+        {
+          "name": "thedotmack",
+          "url": "https://github.com/thedotmack",
+          "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        },
+        {
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        },
+        {
+          "name": "rodboev",
+          "url": "https://github.com/rodboev",
+          "avatar": "https://avatars.githubusercontent.com/u/106971?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "12,172",
+      "forks": "471",
+      "starsThisWeek": "2,313",
+      "contributors": [
+        {
+          "name": "max-sixty",
+          "url": "https://github.com/max-sixty",
+          "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "worktrunk-bot",
+          "url": "https://github.com/worktrunk-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/254187624?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "189,926",
+      "forks": "22,374",
+      "starsThisWeek": "3,169",
+      "contributors": [
+        {
+          "name": "rlancemartin",
+          "url": "https://github.com/rlancemartin",
+          "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4"
+        },
+        {
+          "name": "klazuka",
+          "url": "https://github.com/klazuka",
+          "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "cj-ant",
+          "url": "https://github.com/cj-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4"
+        },
+        {
+          "name": "ericharmeling",
+          "url": "https://github.com/ericharmeling",
+          "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "37,127",
+      "forks": "4,890",
+      "starsThisWeek": "5,235",
+      "contributors": [
+        {
+          "name": "Donchitos",
+          "url": "https://github.com/Donchitos",
+          "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "18,763",
+      "forks": "2,586",
+      "starsThisWeek": "7,621",
+      "contributors": [
+        {
+          "name": "milind-soni",
+          "url": "https://github.com/milind-soni",
+          "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "aivsomkar",
+          "url": "https://github.com/aivsomkar",
+          "avatar": "https://avatars.githubusercontent.com/u/255997030?s=40&v=4"
+        },
+        {
+          "name": "robinsonnblack",
+          "url": "https://github.com/robinsonnblack",
+          "avatar": "https://avatars.githubusercontent.com/u/331326017?s=40&v=4"
+        },
+        {
+          "name": "bradhallett",
+          "url": "https://github.com/bradhallett",
+          "avatar": "https://avatars.githubusercontent.com/u/53977268?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "52,856",
+      "forks": "10,067",
+      "starsThisWeek": "15,379",
+      "contributors": [
+        {
+          "name": "juliusmarminge",
+          "url": "https://github.com/juliusmarminge",
+          "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "t3dotgg",
+          "url": "https://github.com/t3dotgg",
+          "avatar": "https://avatars.githubusercontent.com/u/6751787?s=40&v=4"
+        },
+        {
+          "name": "maria-rcks",
+          "url": "https://github.com/maria-rcks",
+          "avatar": "https://avatars.githubusercontent.com/u/254055478?s=40&v=4"
+        },
+        {
+          "name": "codex",
+          "url": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "51,164",
+      "forks": "2,723",
+      "starsThisWeek": "6,356",
+      "contributors": [
+        {
+          "name": "Luffixos",
+          "url": "https://github.com/Luffixos",
+          "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4"
+        },
+        {
+          "name": "Nutlope",
+          "url": "https://github.com/Nutlope",
+          "avatar": "https://avatars.githubusercontent.com/u/63742054?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        },
+        {
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent",
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4"
+        },
+        {
+          "name": "Bortlesboat",
+          "url": "https://github.com/Bortlesboat",
+          "avatar": "https://avatars.githubusercontent.com/u/169967362?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "17,114",
+      "forks": "3,308",
+      "starsThisWeek": "4,191",
+      "contributors": [
+        {
+          "name": "Renhuai123",
+          "url": "https://github.com/Renhuai123",
+          "avatar": "https://avatars.githubusercontent.com/u/91890238?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "HelloWorld3326",
+          "url": "https://github.com/HelloWorld3326",
+          "avatar": "https://avatars.githubusercontent.com/u/189696476?s=40&v=4"
+        },
+        {
+          "name": "sakura168899-debug",
+          "url": "https://github.com/sakura168899-debug",
+          "avatar": "https://avatars.githubusercontent.com/u/289346330?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "100,070",
+      "forks": "10,456",
+      "starsThisWeek": "8,342",
+      "contributors": [
+        {
+          "name": "D4Vinci",
+          "url": "https://github.com/D4Vinci",
+          "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4"
+        },
+        {
+          "name": "yetval",
+          "url": "https://github.com/yetval",
+          "avatar": "https://avatars.githubusercontent.com/u/102706514?s=40&v=4"
+        },
+        {
+          "name": "AbdullahY36",
+          "url": "https://github.com/AbdullahY36",
+          "avatar": "https://avatars.githubusercontent.com/u/52079299?s=40&v=4"
+        },
+        {
+          "name": "SulimanAbdulrazzaq",
+          "url": "https://github.com/SulimanAbdulrazzaq",
+          "avatar": "https://avatars.githubusercontent.com/u/144490671?s=40&v=4"
+        },
+        {
+          "name": "codex",
+          "url": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "47,891",
+      "forks": "3,270",
+      "starsThisWeek": "2,190",
+      "contributors": [
+        {
+          "name": "ctate",
+          "url": "https://github.com/ctate",
+          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4"
+        },
+        {
+          "name": "Railly",
+          "url": "https://github.com/Railly",
+          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4"
+        },
+        {
+          "name": "lahfir",
+          "url": "https://github.com/lahfir",
+          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "318,840",
+      "forks": "26,683",
+      "starsThisWeek": "9,635",
+      "contributors": [
+        {
+          "name": "mattpocock",
+          "url": "https://github.com/mattpocock",
+          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "gabimoncha",
+          "url": "https://github.com/gabimoncha",
+          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "11,791",
+      "forks": "460",
+      "starsThisWeek": "1,857",
+      "contributors": [
+        {
+          "name": "jakubkrehel",
+          "url": "https://github.com/jakubkrehel",
+          "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "148,799",
+      "forks": "13,362",
+      "starsThisWeek": "4,045",
+      "contributors": [
+        {
+          "name": "mnriem",
+          "url": "https://github.com/mnriem",
+          "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4"
+        },
+        {
+          "name": "localden",
+          "url": "https://github.com/localden",
+          "avatar": "https://avatars.githubusercontent.com/u/53200638?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "15,636",
+      "forks": "2,154",
+      "starsThisWeek": "1,706",
+      "contributors": [
+        {
+          "name": "mrT23",
+          "url": "https://github.com/mrT23",
+          "avatar": "https://avatars.githubusercontent.com/u/21198860?s=40&v=4"
+        },
+        {
+          "name": "okotek",
+          "url": "https://github.com/okotek",
+          "avatar": "https://avatars.githubusercontent.com/u/4869233?s=40&v=4"
+        },
+        {
+          "name": "PeterDaveHello",
+          "url": "https://github.com/PeterDaveHello",
+          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4"
+        },
+        {
+          "name": "IsmaelMartinez",
+          "url": "https://github.com/IsmaelMartinez",
+          "avatar": "https://avatars.githubusercontent.com/u/430992?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "40,580",
+      "forks": "2,169",
+      "starsThisWeek": "1,465",
+      "contributors": [
+        {
+          "name": "vaxerski",
+          "url": "https://github.com/vaxerski",
+          "avatar": "https://avatars.githubusercontent.com/u/43317083?s=40&v=4"
+        },
+        {
+          "name": "fufexan",
+          "url": "https://github.com/fufexan",
+          "avatar": "https://avatars.githubusercontent.com/u/36706276?s=40&v=4"
+        },
+        {
+          "name": "gulafaran",
+          "url": "https://github.com/gulafaran",
+          "avatar": "https://avatars.githubusercontent.com/u/773455?s=40&v=4"
+        },
+        {
+          "name": "MightyPlaza",
+          "url": "https://github.com/MightyPlaza",
+          "avatar": "https://avatars.githubusercontent.com/u/123664421?s=40&v=4"
+        },
+        {
+          "name": "UjinT34",
+          "url": "https://github.com/UjinT34",
+          "avatar": "https://avatars.githubusercontent.com/u/41110182?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "66,707",
+      "forks": "5,245",
+      "starsThisWeek": "3,118",
+      "contributors": [
+        {
+          "name": "blader",
+          "url": "https://github.com/blader",
+          "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn",
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4"
+        },
+        {
+          "name": "Scott-Emberson",
+          "url": "https://github.com/Scott-Emberson",
+          "avatar": "https://avatars.githubusercontent.com/u/8268155?s=40&v=4"
+        },
+        {
+          "name": "warp-agent",
+          "url": "https://github.com/warp-agent",
+          "avatar": "https://avatars.githubusercontent.com/u/243858445?s=40&v=4"
+        }
+      ]
+    }
+  ]
+}
