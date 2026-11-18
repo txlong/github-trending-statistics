@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-18",
+  "period": "weekly",
+  "source": "https://github.com/trending?since=weekly",
+  "fetchedAt": "2026-11-18T07:37:13.126Z",
+  "repositories": [
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "8,564",
+      "forks": "731",
+      "starsThisWeek": "7,015",
+      "contributors": [
+        {
+          "name": "paulirish",
+          "url": "https://github.com/paulirish",
+          "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4"
+        },
+        {
+          "name": "rviscomi",
+          "url": "https://github.com/rviscomi",
+          "avatar": "https://avatars.githubusercontent.com/u/1120896?s=40&v=4"
+        },
+        {
+          "name": "micahjo7",
+          "url": "https://github.com/micahjo7",
+          "avatar": "https://avatars.githubusercontent.com/u/126118814?s=40&v=4"
+        },
+        {
+          "name": "LeaVerou",
+          "url": "https://github.com/LeaVerou",
+          "avatar": "https://avatars.githubusercontent.com/u/175836?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "13,191",
+      "forks": "1,320",
+      "starsThisWeek": "2,926",
+      "contributors": [
+        {
+          "name": "backnotprop",
+          "url": "https://github.com/backnotprop",
+          "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "utpalsinghdev",
+          "url": "https://github.com/utpalsinghdev",
+          "avatar": "https://avatars.githubusercontent.com/u/110197373?s=40&v=4"
+        },
+        {
+          "name": "leoreisdias",
+          "url": "https://github.com/leoreisdias",
+          "avatar": "https://avatars.githubusercontent.com/u/47978193?s=40&v=4"
+        },
+        {
+          "name": "uvw",
+          "url": "https://github.com/uvw",
+          "avatar": "https://avatars.githubusercontent.com/u/1078682?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "30,308",
+      "forks": "2,368",
+      "starsThisWeek": "8,700",
+      "contributors": [
+        {
+          "name": "cixzhang",
+          "url": "https://github.com/cixzhang",
+          "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4"
+        },
+        {
+          "name": "josephfarina",
+          "url": "https://github.com/josephfarina",
+          "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4"
+        },
+        {
+          "name": "rubyycheung",
+          "url": "https://github.com/rubyycheung",
+          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4"
+        },
+        {
+          "name": "vjeux",
+          "url": "https://github.com/vjeux",
+          "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "16,330",
+      "forks": "1,424",
+      "starsThisWeek": "4,786",
+      "contributors": [
+        {
+          "name": "jjmata",
+          "url": "https://github.com/jjmata",
+          "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "zachgoll",
+          "url": "https://github.com/zachgoll",
+          "avatar": "https://avatars.githubusercontent.com/u/16676157?s=40&v=4"
+        },
+        {
+          "name": "Shpigford",
+          "url": "https://github.com/Shpigford",
+          "avatar": "https://avatars.githubusercontent.com/u/35243?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "73,188",
+      "forks": "57,826",
+      "starsThisWeek": "3,653",
+      "contributors": [
+        {
+          "name": "ZhuLinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4"
+        },
+        {
+          "name": "massif-01",
+          "url": "https://github.com/massif-01",
+          "avatar": "https://avatars.githubusercontent.com/u/176381099?s=40&v=4"
+        },
+        {
+          "name": "freesme",
+          "url": "https://github.com/freesme",
+          "avatar": "https://avatars.githubusercontent.com/u/56824280?s=40&v=4"
+        },
+        {
+          "name": "Activer007",
+          "url": "https://github.com/Activer007",
+          "avatar": "https://avatars.githubusercontent.com/u/30621586?s=40&v=4"
+        },
+        {
+          "name": "birdxs",
+          "url": "https://github.com/birdxs",
+          "avatar": "https://avatars.githubusercontent.com/u/36181736?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "196,903",
+      "forks": "23,072",
+      "starsThisWeek": "4,847",
+      "contributors": [
+        {
+          "name": "rlancemartin",
+          "url": "https://github.com/rlancemartin",
+          "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4"
+        },
+        {
+          "name": "klazuka",
+          "url": "https://github.com/klazuka",
+          "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "cj-ant",
+          "url": "https://github.com/cj-ant",
+          "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4"
+        },
+        {
+          "name": "ericharmeling",
+          "url": "https://github.com/ericharmeling",
+          "avatar": "https://avatars.githubusercontent.com/u/27286675?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "9,944",
+      "forks": "1,403",
+      "starsThisWeek": "2,508",
+      "contributors": [
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "injectifytest",
+          "url": "https://github.com/injectifytest",
+          "avatar": "https://avatars.githubusercontent.com/u/66463177?s=40&v=4"
+        },
+        {
+          "name": "elementalsouls",
+          "url": "https://github.com/elementalsouls",
+          "avatar": "https://avatars.githubusercontent.com/u/49252733?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "53,967",
+      "forks": "4,450",
+      "starsThisWeek": "3,675",
+      "contributors": [
+        {
+          "name": "lizhengfeng101",
+          "url": "https://github.com/lizhengfeng101",
+          "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4"
+        },
+        {
+          "name": "wu21-web",
+          "url": "https://github.com/wu21-web",
+          "avatar": "https://avatars.githubusercontent.com/u/149216116?s=40&v=4"
+        },
+        {
+          "name": "chethanuk",
+          "url": "https://github.com/chethanuk",
+          "avatar": "https://avatars.githubusercontent.com/u/16241795?s=40&v=4"
+        },
+        {
+          "name": "Qiyuanqiii",
+          "url": "https://github.com/Qiyuanqiii",
+          "avatar": "https://avatars.githubusercontent.com/u/267806965?s=40&v=4"
+        },
+        {
+          "name": "stay-foolish-forever",
+          "url": "https://github.com/stay-foolish-forever",
+          "avatar": "https://avatars.githubusercontent.com/u/61303077?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "52,466",
+      "forks": "3,669",
+      "starsThisWeek": "3,429",
+      "contributors": [
+        {
+          "name": "ctate",
+          "url": "https://github.com/ctate",
+          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4"
+        },
+        {
+          "name": "Railly",
+          "url": "https://github.com/Railly",
+          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4"
+        },
+        {
+          "name": "lahfir",
+          "url": "https://github.com/lahfir",
+          "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "58,113",
+      "forks": "4,873",
+      "starsThisWeek": "2,948",
+      "contributors": [
+        {
+          "name": "OrKoN",
+          "url": "https://github.com/OrKoN",
+          "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4"
+        },
+        {
+          "name": "Lightning00Blade",
+          "url": "https://github.com/Lightning00Blade",
+          "avatar": "https://avatars.githubusercontent.com/u/34244704?s=40&v=4"
+        },
+        {
+          "name": "browser-automation-bot",
+          "url": "https://github.com/browser-automation-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/133232582?s=40&v=4"
+        },
+        {
+          "name": "yulunz",
+          "url": "https://github.com/yulunz",
+          "avatar": "https://avatars.githubusercontent.com/u/11618243?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "6,938",
+      "forks": "1,415",
+      "starsThisWeek": "2,985",
+      "contributors": [
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "tradermonty",
+          "url": "https://github.com/tradermonty",
+          "avatar": "https://avatars.githubusercontent.com/u/205491838?s=40&v=4"
+        },
+        {
+          "name": "raikkonenPotter",
+          "url": "https://github.com/raikkonenPotter",
+          "avatar": "https://avatars.githubusercontent.com/u/270693131?s=40&v=4"
+        },
+        {
+          "name": "sx4im",
+          "url": "https://github.com/sx4im",
+          "avatar": "https://avatars.githubusercontent.com/u/128062316?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "10,221",
+      "forks": "1,335",
+      "starsThisWeek": "1,197",
+      "contributors": [
+        {
+          "name": "JLXIA",
+          "url": "https://github.com/JLXIA",
+          "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4"
+        },
+        {
+          "name": "davideast",
+          "url": "https://github.com/davideast",
+          "avatar": "https://avatars.githubusercontent.com/u/4570265?s=40&v=4"
+        },
+        {
+          "name": "Emp1500",
+          "url": "https://github.com/Emp1500",
+          "avatar": "https://avatars.githubusercontent.com/u/201552351?s=40&v=4"
+        },
+        {
+          "name": "dalmaer",
+          "url": "https://github.com/dalmaer",
+          "avatar": "https://avatars.githubusercontent.com/u/4770?s=40&v=4"
+        },
+        {
+          "name": "meeChn",
+          "url": "https://github.com/meeChn",
+          "avatar": "https://avatars.githubusercontent.com/u/1460397?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "14,014",
+      "forks": "1,095",
+      "starsThisWeek": "2,531",
+      "contributors": [
+        {
+          "name": "mldangelo-oai",
+          "url": "https://github.com/mldangelo-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4"
+        },
+        {
+          "name": "codex",
+          "url": "https://github.com/codex",
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4"
+        },
+        {
+          "name": "ianw-oai",
+          "url": "https://github.com/ianw-oai",
+          "avatar": "https://avatars.githubusercontent.com/u/269041055?s=40&v=4"
+        },
+        {
+          "name": "kmbroai",
+          "url": "https://github.com/kmbroai",
+          "avatar": "https://avatars.githubusercontent.com/u/272643392?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "118,738",
+      "forks": "12,377",
+      "starsThisWeek": "3,884",
+      "contributors": [
+        {
+          "name": "addyosmani",
+          "url": "https://github.com/addyosmani",
+          "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4"
+        },
+        {
+          "name": "nucliweb",
+          "url": "https://github.com/nucliweb",
+          "avatar": "https://avatars.githubusercontent.com/u/1307927?s=40&v=4"
+        },
+        {
+          "name": "ayobamiseun",
+          "url": "https://github.com/ayobamiseun",
+          "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&v=4"
+        },
+        {
+          "name": "claude",
+          "url": "https://github.com/claude",
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4"
+        },
+        {
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli",
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4"
+        }
+      ]
+    }
+  ]
+}
